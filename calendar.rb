@@ -50,7 +50,7 @@ def cal(year, month)
     end
 
     current_weekday = 0
-    puts
+    print "\n"
   end
 end
 
